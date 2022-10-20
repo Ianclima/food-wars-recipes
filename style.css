@@ -1,0 +1,14 @@
+body {
+    background-image: url("back.png");
+    background-color: #000000;
+   }
+
+   h1 {
+    text-align: center;
+    color: aliceblue;
+   }
+   a {
+    margin: 0 auto;
+    text-align: center;
+    color: aliceblue;
+   }
